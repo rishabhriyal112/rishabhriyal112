@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Rishabh! 👋
 
-<!--
-**rishabhriyal112/rishabhriyal112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** focused on building clean, modern, and responsive websites.  
+I specialize in creating beautiful interfaces and dynamic experiences with the latest web technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **ReactJS**
+- **TailwindCSS**
+- **Firebase**
+
+## 💼 Featured Projects
+
+### Personal Portfolio Website
+_Built with ReactJS & TailwindCSS_  
+A showcase of my skills and work, designed for speed and style.
+
+### Netflix Clone
+_Built with ReactJS & Firebase_  
+A streaming platform clone featuring authentication, real-time data, and a sleek UI.
+
+---
+
+Thanks for visiting my profile!  
