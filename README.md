@@ -11,6 +11,7 @@ I specialize in creating beautiful interfaces and dynamic experiences with the l
 - **ReactJS**
 - **TailwindCSS**
 - **Firebase**
+- **Supabase**
 
 ## 💼 Featured Projects
 
